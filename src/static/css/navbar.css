@@ -1,0 +1,25 @@
+.navbar {
+  background-color: #f9fafc;
+}
+
+.header-name {
+  color: #e55934 !important;
+}
+
+.header-text {
+  color: #e55934;
+  font-size: 32px;
+}
+
+.header-subtext {
+  font-size: 20px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  font-family: "Sen", sans-serif;
+}
+
+.main-header {
+  padding-top: 16px;
+  padding-bottom: 32px;
+  margin-bottom: 32px;
+}
